@@ -1,1 +1,5 @@
-# Git-GitHubCourse
+# Sistema de Catalogos de Games # 
+
+```
+npm install 
+```
