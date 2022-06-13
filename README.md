@@ -1,5 +1,5 @@
 # Sistema de Catalogos de Games # 
 
 ```
-npm install 
+node app.js
 ```
